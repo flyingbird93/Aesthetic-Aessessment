@@ -7,8 +7,10 @@ Its a simple pytorch code to classificate aesthetic assessment,and its easy to u
 - install conda and pip
 - install requirements base file "envs"
 
-# prepare your images and modify path
+# Prepare your images and modify path
+-download AVA datasets, and modify correspond path
 
-# download the resnet34 model to finetune
+# Download the resnet34 model to finetune
+- you need to download resnet34 in your models file,or you can run the code to download
 
-# run main.py to analysis the model results
+# Run main.py to analysis the model results
